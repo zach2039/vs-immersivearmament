@@ -1,0 +1,13 @@
+{
+  "type": "code",
+  "modid": "immersivearmament",
+  "name": "Immersive Armament",
+  "authors": [
+    "Zach2039"
+  ],
+  "description": "Adds intermediate items for armor crafting and refactors recipes for armor to be more engaging.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "*"
+  }
+}
